@@ -1,2 +1,2 @@
 # Robot-control-by-using-Android-App
-ye mai ad krta rukh
+Developed a smartphone-controlled Robot using an Arduino UNO and HC-05 Bluetooth module. The project enables users to wirelessly control the robot's movement through an Android app, integrating hardware and software for remote operation. The robot's status is sent back to the app for real-time feedback, enhancing user interaction. This project serves as a foundation for expanding into advanced robotics applications.
